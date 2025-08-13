@@ -6,13 +6,26 @@
 - 📝 I regularly write articles on [https://medium.com/@sasangip17](https://medium.com/@sasangip17)
 ---
 
-### 🌐 Connect with Me
+## 📬 Contact Me
 <p align="left">
-<a href="https://linkedin.com/in/sasangi samadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sasangi samadara" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:21853830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21853830" height="30" width="40" /></a>
-<a href="https://fb.com/sasangi samadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sasangi samadara" height="30" width="40" /></a>
-<a href="https://instagram.com/_ange.l_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ange.l_2003" height="30" width="40" /></a>
-<a href="https://discord.gg/sasa_70826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sasa_70826" height="30" width="40" /></a>
+  <a href="mailto:sasangip17@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sasangi-samadara-b73694273/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/21853830/sasangi-samadra" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Stack Overflow" height="30" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://web.facebook.com/profile.php?id=100074610701315" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_ange.l_2003/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="30" />
+  </a>&nbsp;&nbsp;
+  <a href="https://discord.com/users/sasa_70826" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" height="30" width="30" />
+  </a>
 </p>
 
 ---
