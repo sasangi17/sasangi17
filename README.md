@@ -54,10 +54,7 @@
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasangi17&theme=radical" alt="GitHub Contributions" /></td>
   </tr>
   <!-- Row 2: Activity & Languages -->
-  <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sasangi17&theme=radical&hide_border=true" alt="GitHub Activity Streak" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasangi17&theme=dracula&layout=compact&langs_count=8&hide=html,css" alt="Technical Skills Breakdown" /></td>
-  </tr>
+ 
   <!-- Row 3: Skills & Productivity -->
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sasangi17&theme=radical" alt="Technical Skills" /></td>
