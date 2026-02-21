@@ -62,12 +62,24 @@
   </tr>
 </table>
 
+
+
 ## 🔍 Currently Exploring  
 - 🌐 **Advanced Full-Stack Development** with **Node.js**, **React**, and **PHP**  
 - 🗺 **Interactive mapping** using **Leaflet.js**  
 - 🏗 **Enterprise web applications** with **ASP.NET MVC**  
 - 📊 **Modern UI/UX trends** and responsive design techniques  
-- 🔗 **Blockchain basics** & cryptocurrency research  
+- 🔗 **Blockchain basics** & cryptocurrency research
+
+
+
+## 🤖 GitHub Workflows
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prateekrajput08/prateekrajput08/output/pacman-contribution-graph.svg">
+</picture>  
 
 ---
 <p align="center">
