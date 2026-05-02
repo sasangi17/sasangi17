@@ -8,26 +8,22 @@
 
 ## 📬 Contact Me
 <p align="left">
-  <a href="mailto:sasangip17@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sasangi-samadara-b73694273/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/21853830/sasangi-samadra" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Stack Overflow" height="30" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://web.facebook.com/profile.php?id=100074610701315" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/_ange.l_2003/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="30" />
-  </a>&nbsp;&nbsp;
-  <a href="https://discord.com/users/sasa_70826" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="Discord" height="30" width="30" />
+  <a href="mailto:sasangip17@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/sasangi-samadara-b73694273/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://stackoverflow.com/users/21853830/sasangi-samadra">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://discord.com/users/sasa_70826">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" height="30" />
   </a>
 </p>
-
 ---
 
 ## 🧠 About Me  
