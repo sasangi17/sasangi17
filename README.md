@@ -28,7 +28,7 @@
 
 ## 🧠 About Me  
 - 🎓 Currently pursuing a **BSc (Hons) in Computer Science** at *Plymouth University*  
-- 💻 **Frontend Web Developer** & **UI/UX Designer** — turning ideas into seamless digital experiences  
+- 💻 **Frontend Web Developer**,**QA** & **UI/UX Designer** — turning ideas into seamless digital experiences  
 - 🔬 Actively working with **Node.js**, **React**, **PHP**, **Leaflet.js**   and **ASP.NET MVC** on diverse projects  
 - 📈 Constantly learning and experimenting with modern technologies to stay ahead in the field  
 
