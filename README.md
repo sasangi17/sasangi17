@@ -1,99 +1,55 @@
 <h1 align="center">Hi 👋, I'm Sasangi Samadara</h1>
+
 <h3 align="center">Computer Science Undergraduate | Plymouth University</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasangi17&label=Profile%20views&color=0e75b6&style=flat" alt="sasangi17" /> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@sasangip17](https://medium.com/@sasangip17)
----
-
-## 📬 Contact Me
-<p align="left">
-  <a href="mailto:sasangip17@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/sasangi-samadara-b73694273/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://stackoverflow.com/users/21853830/sasangi-samadra">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" height="30" />
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://discord.com/users/sasa_70826">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" height="30" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;QA+Engineer;UI%2FUX+Designer;Computer+Science+Undergraduate;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
----
 
-## 🧠 About Me  
-- 🎓 Currently pursuing a **BSc (Hons) in Computer Science** at *Plymouth University*  
-- 💻 **Frontend Web Developer**,**QA** & **UI/UX Designer** — turning ideas into seamless digital experiences  
-- 🔬 Actively working with **Node.js**, **React**, **PHP**, **Leaflet.js**   and **ASP.NET MVC** on diverse projects  
-- 📈 Constantly learning and experimenting with modern technologies to stay ahead in the field  
-
-
----
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <a href="https://flutter.dev" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  </a>&nbsp;
-
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sasangi17&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+
 ---
+
+# 👩‍💻 About Me
+
+🎓 BSc (Hons) Computer Science Undergraduate at **Plymouth University**
+
+💻 Passionate about building responsive web applications and creating intuitive user experiences.
+
+🌱 Currently learning **React**, **Node.js**, **ASP.NET MVC**, and **Leaflet.js**
+
+🎯 Interested in
+
+- Frontend Development
+- Software Quality Assurance
+- UI/UX Design
+- Full Stack Development
+
+📝 I regularly write articles on
+
+**Medium**
+
+https://medium.com/@sasangip17
+
+---
+
+# 🏆 Certifications
+
+✅ ISTQB® Certified Tester Foundation Level (CTFL v4.0)
+
+✅ ISTQB® Certified Tester Performance Testing (CT-PT)
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,mysql,dotnet,cs,figma,git,github,vscode,flutter"/>
+
+</p>
 
 ## 📊 GitHub Stats
 
@@ -112,7 +68,17 @@
   </tr>
 </table>
 
+---
 
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sasangi17&theme=tokyonight"/>
+
+</p>
+
+---
 
 ## 🔍 Currently Exploring  
 - 🌐 **Advanced Full-Stack Development** with **Node.js**, **React**, and **PHP**  
@@ -121,7 +87,7 @@
 - 📊 **Modern UI/UX trends** and responsive design techniques  
 - 🔗 **Blockchain basics** & cryptocurrency research
 
-
+---
 
 ## 🤖 GitHub Workflows
 
@@ -130,6 +96,30 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sasangi17/sasangi17/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sasangi17/sasangi17/output/pacman-contribution-graph.svg">
 </picture>  
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:sasangip17@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sasangi-samadara-b73694273/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://stackoverflow.com/users/21853830/sasangi-samadra">
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@sasangip17">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 <p align="center">
