@@ -99,6 +99,20 @@
 
 ---
 
+# 🧪 QA & Testing
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Manual%20Testing-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Test%20Case%20Design-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bug%20Reporting-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Functional%20Testing-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance%20Testing-333333?style=for-the-badge"/>
+
+</p>
+
+---
+
 # 📫 Connect With Me
 
 <p align="center">
