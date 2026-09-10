@@ -27,11 +27,11 @@
 - UI/UX Design
 - Full Stack Development
 
-📝 I regularly write articles on
+🌐 **Portfolio:**  
+<a href="https://sasangi.netlify.app/" target="_blank">https://sasangi.netlify.app/</a>
 
-**Medium**
-
-https://medium.com/@sasangip17
+📝 I also write about technology and my learning journey on **Medium**. <br>
+<a href="https://medium.com/@sasangip17">https://medium.com/@sasangip17</a>
 
 ---
 
